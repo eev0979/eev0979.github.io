@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama apprev="17950" id="node1" appversion="6.1.6">
+  <input leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" width="1750" levelbias="0.400" levelbiashidpi="1.000" height="1750" levelingpitch="0">
+    <level preload="0" predecode="0" width="1750" height="1750"/>
+    <level preload="0" predecode="0" width="875" height="875"/>
+    <level preload="1" predecode="1" width="437" height="437"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start fov="70" pan="0" projection="4" tilt="0"/>
+    <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+    <min fovpixel="2" pan="0" tilt="-90"/>
+    <max fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360" tilt="90"/>
+  </view>
+  <userdata customnodeid="" comment="" description="" author="" source="" copyright="" title="" longitude="" tags="Desktop" latitude="" nodeid="node1" info="" heading="0" datetime=""/>
+  <hotspots wordwrap="1" width="180" height="20">
+    <label backgroundcolor="0xffffff" wordwrap="1" background="1" enabled="1" border="1" width="180" bordercolor="0x000000" backgroundalpha="1" borderradius="1" textcolor="0x000000" height="20" textalpha="1" borderalpha="1"/>
+    <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
+  </hotspots>
+  <media/>
+  <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomout="0" zoomin="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20" blendtime="1" softedge="0"/>
+  <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+  <control lockedmouse="0" hideabout="0" contextprojections="0" dblclickfullscreen="0" simulatemass="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" invertcontrol="1" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" lockedwheel="0" speedwheel="1"/>
+</panorama>
